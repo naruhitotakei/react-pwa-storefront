@@ -1,2 +1,0 @@
-# Restrict Test Environment Deployment Workflows to be Approved by Cloud Team
-.github/workflows/test-env* @mirumee/saleor-cloud

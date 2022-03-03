@@ -1,9 +1,0 @@
-{
-  "env": {
-    "test": {
-      "presets": ["next/babel"],
-      "plugins": ["require-context-hook"]
-    }
-  },
-  "presets": ["next/babel"]
-}
