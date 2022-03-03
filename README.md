@@ -45,7 +45,7 @@ To change it, either create a [`.env.local` file](https://nextjs.org/docs/basic-
 Clone the repository:
 
 ```
-git clone https://github.com/mirumee/saleor-storefront.git
+git clone https://github.com/wholespace/react-pwa-storefront.git
 ```
 
 Enter the project directory:
@@ -62,7 +62,7 @@ To use the official stable release, checkout to a release tag:
 $ git checkout 2.11.0
 ```
 
-See the list of all releases here: https://github.com/mirumee/saleor-storefront/releases/
+See the list of all releases here: https://github.com/wholespace/react-pwa-storefront/releases/
 
 #### Using development version
 
@@ -167,7 +167,7 @@ npm run generate
 
 ## Modifying the Storefront
 
-[From Spectrum Post](https://spectrum.chat/saleor/saleor-storefront/modifying-the-storefront~c1955dbf-a421-4fb6-b99e-937dd2642b23)
+[From Spectrum Post](https://github.com/wholespace/react-pwa-storefront/modifying-the-storefront~c1955dbf-a421-4fb6-b99e-937dd2642b23)
 
 ### Important Files
 
